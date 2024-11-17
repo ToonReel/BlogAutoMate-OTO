@@ -1,0 +1,2 @@
+# BlogAutoMate-OTO
+BlogAutoMate OTO
